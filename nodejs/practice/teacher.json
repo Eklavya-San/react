@@ -1,0 +1,142 @@
+
+{
+    "tid":"t1",
+    "tpassword":"password123#",
+    "taddress":"pune",
+    "tname":"Akshay Hambarde",
+    "tphone":"9090909090",
+    "tqualification":["m.tech","b.tech"],
+    "tsubject":"physics",
+    "tsalary":"4000"
+}
+{
+    "tid":"t2",
+    "tname":"Aniket Sonje",
+    "tphone":"9191919191",
+    "taddress":"pune",
+    "tqualification":["m.tech","b.tech"],
+    "tpassword":"password123#",
+    "tsubject":"chemistry",
+    "tsalary":"5000"
+}
+{
+    "tid":"t2",
+    "tname":"Tanmay",
+    "taddress":"pune",
+    "tphone":"9292929292",
+    "tqualification":["m.tech","b.tech"],
+    "tpassword":"password123#",
+    "tsubject":"Strength of machines",
+    "tsalary":"6000"
+}
+{
+    "tid":"t3",
+    "tname":"Dnyanesh Khairnar",
+    "taddress":"pune",
+    "tphone":"9393939393",
+    "tqualification":["m.tech","b.tech"],
+    "tpassword":"password123#",
+    "tsubject":"Theory of machine",
+    "tsalary":"7000"
+}
+{
+    "tid":"t4",
+    "tname":"Veda Boi",
+    "taddress":"pune",
+    "tphone":"9494949494",
+    "tqualification":["m.tech","b.tech"],
+    "tpassword":"password123#",
+    "tsubject":"Computer science",
+    "tsalary":"7800"
+}
+{
+    "tid":"t5",
+    "tname":"Avdhoot Pawar",
+    "taddress":"pune",
+    "tphone":"9595959595",
+    "tqualification":["m.tech","b.tech"],
+    "tpassword":"password123#",
+    "tsubject":"Data Structure",
+    "tsalary":"9090"
+}
+{
+    "mid":"m1",
+    "mname":"Tanamy",
+    "taddress":"pune",
+    "mphone":"9595959595",
+    "mqualification":["m.tech","b.tech"],
+    "mpassword":"password123#",
+    "mdesignation":"student-section handler",
+    "msalary":"9090"
+}
+
+{
+    "mid":"m2",
+    "mname":"Tanamy",
+    "taddress":"pune",
+    "mphone":"9595959595",
+    "mqualification":["m.tech","b.tech"],
+    "mpassword":"password123#",
+    "mdesignation":"steno",
+    "msalary":"9090"
+}
+{
+    "mid":"m3",
+    "mname":"hirachand",
+    "taddress":"pune",
+    "mphone":"9595959555",
+    "mqualification":["m.tech","b.tech"],
+    "mpassword":"password123#",
+    "mdesignation":"admin",
+    "msalary":"9090"
+}
+{
+    "mid":"m4",
+    "mname":"Nikhil",
+    "taddress":"pune",
+    "mphone":"9595659595",
+    "mqualification":["m.tech","b.tech"],
+    "mpassword":"password123#",
+    "mdesignation":"head-clerk",
+    "msalary":"9090"
+}
+{
+    "hid":"m4",
+    "hname":"Nikhil",
+    "haddress":"pune",
+    "hphone":"9595659595",
+    "hqualification":["m.tech","b.tech"],
+    "hpassword":"password123#",
+    "hdesignation":"head-clerk",
+    "hsalary":"9090"
+}
+{
+    "vid":"v1",
+    "vname":"Eklavya",
+    "vaddress":"pune",
+    "vphone":"9595659595",
+    "vqualification":["m.tech","b.tech"],
+    "vpassword":"password123#",
+    "vdesignation":"CEO",
+    "vsalary":"9090"
+}
+{
+    "vid":"v2",
+    "vname":"Durgesh",
+    "vaddress":"pune",
+    "vphone":"9595659595",
+    "vqualification":["m.tech","b.tech"],
+    "vpassword":"password123#",
+    "vdesignation":"CTO",
+    "vsalary":"9090"
+}
+{
+    "vid":"v3",
+    "vname":"Aniket",
+    "vaddress":"pune",
+    "vphone":"9595659595",
+    "vqualification":["m.tech","b.tech"],
+    "vpassword":"password123#",
+    "vdesignation":"CAO",
+    "vsalary":"9090"
+}
