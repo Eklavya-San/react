@@ -5,12 +5,12 @@ import axios from "axios"
 
 function App() {
 
-  const [fname,nameSetter]=useState();
-  const [fcount,countSetter]=useState();
+  const [foodname,nameSetter]=useState();
+  const [day,countSetter]=useState();
 
   const addToList =()=>{
-    axios.post("http://localhost:3000/insert",{foodName:fname,daySinceIAte:fcount});
-    console.log(fname+"<= food Name, count=>  "+fcount)
+    axios.post("http://localhost:3000/insert",{foodName:foodname,daySinceIAte:day});
+    console.log(foodname  +"<= food Name, count=>  "+day)
   }
   return (
     <div className="App">

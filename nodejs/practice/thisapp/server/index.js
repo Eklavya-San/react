@@ -16,10 +16,10 @@ mongoose.connect('mongodb://127.0.0.1:27017/mis',{
 
 app.post("/insert", async (res,req) => {
 
-    const foodname =req.foodname;
+    const foodname =req.body.foodname;
     console.log(foodname);
 
-    const day = req.daySinceIAte;
+    const day =   req.body.daySinceIAte;
     console.log(day);
 
     const food = new FoodModel ({foodName:foodname,daySinceIAte:day});
