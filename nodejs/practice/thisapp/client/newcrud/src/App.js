@@ -9,7 +9,8 @@ function App() {
   const [day,countSetter]=useState();
 
   const addToList =()=>{
-    axios.post("http://localhost:3000/insert",{foodName:foodname,daySinceIAte:day});
+    alert("food added succesfully");
+    axios.post("http://localhost:3000/home/post",{foodName:foodname,daySinceIAte:day});
     console.log(foodname  +"<= food Name, count=>  "+day)
   }
   return (
