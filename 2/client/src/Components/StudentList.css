@@ -1,0 +1,8 @@
+table{
+    border : 1px solid red;
+    border-collapse: collapse;
+    background-color: aqua;
+}
+body{
+    background-color: antiquewhite;
+}

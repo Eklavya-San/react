@@ -1,5 +1,6 @@
 import React from 'react'
 import axios from 'axios'
+import './From.css'
 const Form = () => {
     const post = () => {
         const studData = {
